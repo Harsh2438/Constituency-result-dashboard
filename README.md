@@ -13,3 +13,12 @@ Gender-wise analysis of election candidates
 Party-wise vote share comparison
 Age demographics of candidates by political party
 Special focus on high-turnout regions like Lakshadweep
+
+
+Visualizations
+The project includes several visualization components:
+
+Pie charts for vote share and gender distribution
+Bar charts for voter turnout and party performance
+Horizontal bar graphs for candidate categories
+Line graphs for age demographics
